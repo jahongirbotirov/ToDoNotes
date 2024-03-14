@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_textview_margin">16dp</dimen>
+    <dimen name="margin_top_textview">16dp</dimen>
+    <dimen name="margin_view_10dp">10dp</dimen>
+    <dimen name="margin_view_5dp">5dp</dimen>
+</resources>
